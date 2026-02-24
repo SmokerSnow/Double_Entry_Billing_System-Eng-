@@ -1,0 +1,6 @@
+﻿vosk-model-hi-0.22/
+__pycache__/
+*.fst
+*.carpa
+*.mdl
+*.raw
